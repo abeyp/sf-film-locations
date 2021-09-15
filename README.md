@@ -1,9 +1,6 @@
 # sf-film-locations
 
-Exploratory Data Analysis on SF Film Locations
-Dataset obtained from:
+Exploratory Data Analysis on SF Film Locations using SQL and Pandas. 
 
-Google BigQuery Public Data:
-Using SQL and Pandas
 
-Goal of exploratory data analysis is to develop an understanding of our data
+Dataset obtained from: [Google BigQuery Public Data](https://console.cloud.google.com/marketplace/product/san-francisco-public-data/sf-film-locations?project=elated-bus-316920&folder=&organizationId=)
